@@ -397,3 +397,19 @@
 2023-07-02 16:02:38,709:INFO:app.py:Data saved in MongoDB
 2023-07-02 16:02:38,709:INFO:app.py:Data saved in MongoDB
 2023-07-02 16:02:38,709:INFO:app.py:Data saved in MongoDB
+2023-07-02 17:05:02,508:INFO:app.py:Url hitted
+2023-07-02 17:05:02,508:INFO:app.py:Url hitted
+2023-07-02 17:05:02,509:INFO:app.py:Search begins for kashmir
+2023-07-02 17:05:02,509:INFO:app.py:Search begins for kashmir
+2023-07-02 17:05:06,015:INFO:app.py:Searching completed
+2023-07-02 17:05:06,015:INFO:app.py:Searching completed
+2023-07-02 17:05:06,089:INFO:app.py:Summarization Done
+2023-07-02 17:05:06,089:INFO:app.py:Summarization Done
+2023-07-02 17:05:07,216:INFO:app.py:Ref_links Fetched
+2023-07-02 17:05:07,216:INFO:app.py:Ref_links Fetched
+2023-07-02 17:05:07,389:INFO:app.py:Image_links Fetched
+2023-07-02 17:05:07,389:INFO:app.py:Image_links Fetched
+2023-07-02 17:05:17,825:INFO:app.py:imgtob64 Done
+2023-07-02 17:05:17,825:INFO:app.py:imgtob64 Done
+2023-07-02 17:05:21,456:INFO:app.py:Data saved in MongoDB
+2023-07-02 17:05:21,456:INFO:app.py:Data saved in MongoDB

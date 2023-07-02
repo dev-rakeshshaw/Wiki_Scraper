@@ -60,7 +60,7 @@ class wikipedia_scrapper():
                     lst.append(paragraph)
 
             except NoSuchElementException as e:
-                raise Exception("(wikiscrapping.py) - Something went wrong while rendering all the details of product.\n" + str(e))
+                raise Exception("(wikiscrapping.py) - Something went wrong while extracting paragraph.\n" + str(e))
         return lst    
 
     def ref(self):     #To find all the ref. links on the page

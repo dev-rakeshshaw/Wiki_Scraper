@@ -10,8 +10,8 @@ class MongoDBManagement:
         This function sets the required url
         """
         try:
-            self.username = "rakesh"
-            self.password = "rk123"
+            self.username = username
+            self.password = password
             self.url = "mongodb+srv://rakesh:rk123@cluster0.hn7id.mongodb.net/?retryWrites=true&w=majority"
 
         except Exception as e:
