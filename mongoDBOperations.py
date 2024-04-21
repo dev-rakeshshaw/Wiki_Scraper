@@ -12,7 +12,7 @@ class MongoDBManagement:
         try:
             self.username = username
             self.password = password
-            self.url = "mongodb+srv://rakesh:rk123@cluster0.hn7id.mongodb.net/?retryWrites=true&w=majority"
+            self.url = "mongodb+srv://rakesh:rk123@cluster0.hn7id.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
         except Exception as e:
             raise Exception(f"(__init__): Something went wrong on initiation process\n" + str(e))
